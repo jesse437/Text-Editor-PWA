@@ -43,7 +43,7 @@ THEN I should have proper build scripts for a webpack application
 # 4. Deployment
 
 ```md
-https://github.com/jesse437/Social-Network-API-NoSQL
+https://github.com/jesse437/Text-Editor-PWA
 ```
 
 # 5. Visuals
