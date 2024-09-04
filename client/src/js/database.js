@@ -16,11 +16,7 @@ const initdb = async () =>
 export const putDb = async (content) => {
   const db = await openDB('jate', 1);
 
-<<<<<<< HEAD
-  const transaction = db. transaction('jate', 'readwrite');
-=======
   const transaction = db.transaction('jate', 'readwrite');
->>>>>>> b67e0738e0802b4d6b922604c5f4dcb482b93705
   const obStore = transaction.objectStore('jate');
 
   // return 0 is empty
